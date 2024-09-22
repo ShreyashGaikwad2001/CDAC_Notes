@@ -1,0 +1,5 @@
+- it is a ready made software that helps you to manage your data
+- Typically all data is normalized to be stored in multiple files.
+- ->ANSI Definition- collection of programs that allow you to insert, update, delete and process data base.
+- various DBMS available
+	- MS Excel, DBASE, FOXPRO, Fox BASE, Clippers, Advance Revolution, DB vista, Data ease, Data flex, quattro pro.

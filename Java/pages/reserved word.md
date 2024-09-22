@@ -1,0 +1,66 @@
+- in java some words are reserved words to represent some meaning and functionality such type of words are called reserve words
+- Reserved Word(53)
+	- 1)keywords(50)-
+		- unused keywords(2)-
+			- goto
+			- const
+			-
+		- used keywords(48)-
+			- if,else,....
+	- 2)reserved literals(3)-
+		- true
+		- false
+		- null
+-
+-
+- Key words for data type-
+	- bit
+	- short
+	- int
+	- long
+	- float
+	- double
+	- boolean
+	- char
+	-
+- Key words for flow control
+	- if
+	- else
+	- switch
+		- case
+		- default
+	- while
+	- do
+	- for
+	- break
+	- continue
+	- return
+-
+- Key words for modifires
+	- public
+	- private
+	- protected
+	- static
+	- final
+	- abstract
+	- synchronised
+	- native
+	- strictfip
+	- transiant
+	- volatile
+	-
+- Key words for exception handling
+	- try
+	- catch
+	- finely
+	- throw
+	- throws
+	- assert
+	-
+- Key related to class
+	- class
+	- interface
+	- extends
+	- impliments
+	- pakeges
+	- import

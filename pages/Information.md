@@ -1,0 +1,1 @@
+- It is data on whose bases decision or action can be made.

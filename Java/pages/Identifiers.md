@@ -1,0 +1,46 @@
+- name in java programs is called identifier. which can be used for identification purpose
+- it can be variable name ,class name, method name or label name
+- ex.
+	- class test{
+		- //their are three identifiers in this program (test,main,string,args,x)
+	- public static void main(string[] args){
+		- int x=0;
+		- }
+	- }
+-
+- rules for defining java identifires
+	- 1)the only allowed characters in java
+		- a to z
+		- A to Z
+		- 0 to 9
+		- _
+		- $
+		- IF we are using any other character we will get error
+	-
+	- 2)Identifiers can't start with digit.
+		- ex.
+			- total123-valid
+			- 123total-invalid
+	- 3) java identifiers are case sensitive as well as java language.
+-
+	- 4) in java there no length limit for  identifiers. but its not recommended to take to lengthy identifiers
+-
+	- 5)We cant use reserved words as identifiers.
+-
+	- 6)All pre-defined java class names and interface names we can use as identifiers.
+		- ex
+			- class test {
+				- public static void main(){
+					- int String=100;
+					- system.out.println(String);
+					- }
+				- }
+	- which are the valid identifiers
+		- total_numbers-->valid
+		- total#-->invalid
+		- total_123-->valid
+		- 123_total-->invalid
+		- _$_$-->valid
+		- Indexes-->valid class name/interface.
+		- Int-->valid
+		- int-->invalid
